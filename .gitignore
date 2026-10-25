@@ -1,0 +1,19 @@
+# CODESYS Compile-/Simulations-Caches (groß, werden neu erzeugt)
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.precompilecache
+*.~u
+# Benutzerspezifische CODESYS-Einstellungen
+*.opt
+# Archive
+*.zip
+# Vorlesungsfolien (urheberrechtlich geschützt)
+klausur vorbereitung/
+
+# Fachfragen / Theorie-Antworten (nicht veröffentlichen)
+Abgabe_1_5460715/II2003_5460715_Uebung1.3/ISS_Fachfragen.pdf
+Abgabe_2_5460715/II2003_5460715_Uebung1.2/Abgabe_ISS_2.pdf
+II2003_5512544_Industrielle_Steuerungssysteme_Uebungen/II2003_5512544_Dienstag_Uebung1.pdf
+II2003_5512544_Industrielle_Steuerungssysteme_Uebungen/II2003_5512544_Mittwoch_Uebung1.pdf
+II2003_5512544_Industrielle_Steuerungssysteme_Uebungen/II2003_5512544_Uebung_Steuer_Regelkreis.pdf
